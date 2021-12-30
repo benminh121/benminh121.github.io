@@ -29,6 +29,8 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 <a href="https://www.vim.org" target="_blank"><img align="left" src="./images/vim-original.svg" alt="Vim" height="42px" /></a>
 <a href="https://www.mysql.com" target="_blank"><img align="left" src="./images/mysql-original.svg" alt="MySQL" height="42px" /></a>
 <a href="https://www.mongodb.com" target="_blank"><img align="left" src="./images/mongodb-original.svg" alt="MongoDB" height="42px" /></a>
+<a href="http://www.open-std.org/jtc1/sc22/wg14" target="_blank"><img align="left" src="./images/c-original.svg" alt="C" height="42px" /></a>
+
 
 <br>
 
@@ -36,5 +38,5 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 
 <img src="https://github-readme-stats-gules-phi.vercel.app/api?username=benminh121&show_icons=true&theme=dracula&count_private=true" />
 <img src="https://github-readme-stats-gules-phi.vercel.app/api/wakatime?username=benminh121&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats-gules-phi.vercel.app/api/top-langs/?username=benminh121&count_private=true&layout=compact&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats-gules-phi.vercel.app/api/top-langs/?username=benminh121&count_private=true&layout=compact&show_icons=true&theme=dracula&langs_count=10" />
 
