@@ -37,5 +37,5 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 ### ⚡️ Statistics
 
 <img src="https://github-readme-stats-beta-plum.vercel.app/api?username=benminh121&show_icons=true&theme=dracula&count_private=true" />
-<img src="https://github-readme-stats-beta-plum.vercel.app/api/wakatime?username=benminh121&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats-beta-plum.vercel.app/api/wakatime?username=benminh121&show_icons=true&theme=dracula&layout=compact" />
 <img src="https://github-readme-stats-beta-plum.vercel.app/api/top-langs/?username=benminh121&count_private=true&layout=compact&show_icons=true&theme=dracula&langs_count=10&exclude_repo=Readme-stats" />
