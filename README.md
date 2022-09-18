@@ -11,12 +11,12 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 
 ### 🧐 More About Me
 
-- 🔭 &nbsp; 
-- 🌱 &nbsp; 
-- 📝 &nbsp;
-- 💬 &nbsp; 
-- 👨🏻‍💻 &nbsp; 
-- ⚡&nbsp; Fun fact: 
+- 🔭 &nbsp; I'm currently studying on some online courses
+- 🌱 &nbsp; I'm currently learning Data Egineering
+- 📝 &nbsp; I'm a [VScode](https://code.visualstudio.com/) lover
+- 💬 &nbsp; I'm love MacOS, ZSH
+- 👨🏻‍💻 &nbsp;  Most of my projects are available on [Github](https://github.com/benminh121?tab=repositories)
+- ⚡&nbsp; The most active course is my [Zoomcamp](https://github.com/benminh121/ZoomcampDE)
 
 <br>
 
@@ -30,7 +30,8 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 <a href="https://www.mysql.com" target="_blank"><img align="left" src="./images/mysql-original.svg" alt="MySQL" height="42px" /></a>
 <a href="https://www.mongodb.com" target="_blank"><img align="left" src="./images/mongodb-original.svg" alt="MongoDB" height="42px" /></a>
 <a href="http://www.open-std.org/jtc1/sc22/wg14" target="_blank"><img align="left" src="./images/c-original.svg" alt="C" height="42px" /></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" src="./images/css3-original.svg" alt="CSS" height="42px" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" src="./images/html5-original.svg" alt="HTML" height="42px" /></a>
 
 <br>
 
