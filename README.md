@@ -39,6 +39,6 @@ I am currently a third year Computer Science student at [Vietnamese German Unive
 
 <img src="https://readme-stats-beige-phi.vercel.app/api?username=benminh121&show_icons=true&theme=dracula&count_private=true" />
 <img src="https://readme-stats-beige-phi.vercel.app/api/wakatime?username=benminh121&show_icons=true&theme=dracula&layout=compact" />
-<img src="https://readme-stats-beige-phi.vercel.app/api/top-langs/?username=benminh121&count_private=true&layout=compact&show_icons=true&theme=dracula&langs_count=10&exclude_repo=Readme-stats" />
+<img src="https://readme-stats-beige-phi.vercel.app/api/top-langs/?username=benminh121&count_private=true&layout=compact&show_icons=true&theme=dracula&langs_count=10&exclude_repo=Readme-stats,Obsidian" />
 
 <a href="https://app.daily.dev/benminh1201"><img src="https://api.daily.dev/devcards/4e2ecec0a1d54c4c91f8f3790a870880.png?r=lzc" width="400" alt="Minh Nguyen's Dev Card"/></a>
