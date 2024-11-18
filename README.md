@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/benminh1201"><img align="left" alt="linkedin" src="./images/linkedin.svg" height="18px" /></a>
 <a href="https://twitter.com/benminh1201"><img alt="twitter" src="./images/twitter.svg" height="18px" /></a>
 
-I am currently a third year Computer Science student at [Vietnamese German University](https://vgu.edu.vn) based in Binh Duong. I love exploring new tech stack and programming languages.
+I am currently a Master of Analytics student at Massey University based in Auckland, New Zealand. I love exploring new tech stack and programming languages.
 
 <br>
 
