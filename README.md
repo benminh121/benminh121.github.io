@@ -22,10 +22,10 @@ In addition to technical expertise, I have experience applying multivariate anal
 - Worked closely with team leads to define project requirements and data needs, ensuring alignment between technical development and research objectives.
 
 **Data Analyst @ Property Brokers, New Zealand (_Dec 2024 - Feb 2025_)**
-– Resolved data quality issues for predictive models and Power BI dashboards such as inconsistent formats and duplicate records with SQL and Python.
-– Built Power BI dashboards visualising portfolio trends, rental performance, and maintenance patterns, improving stakeholder engagement and understanding of operational data.
-– Developed a statistical regression model that explained 56% of weekly rent variance, providing data-driven insights into rental pricing factors.
-– Developed an ensemble predictive model achieving 42.61% accuracy in forecasting property maintenance tasks and costs, supporting proactive budgeting for property managers and landlords.
-– Presented complex analytical findings to non-technical stakeholders through clear visualisations, a written report, and a PowerPoint presentation, enhancing data-driven decision-making.
+- Resolved data quality issues for predictive models and Power BI dashboards such as inconsistent formats and duplicate records with SQL and Python
+- Built Power BI dashboards visualising portfolio trends, rental performance, and maintenance patterns, improving stakeholder engagement and understanding of operational data.
+- Developed a statistical regression model that explained 56% of weekly rent variance, providing data-driven insights into rental pricing factors.
+- Developed an ensemble predictive model achieving 42.61% accuracy in forecasting property maintenance tasks and costs, supporting proactive budgeting for property managers and landlords.
+- Presented complex analytical findings to non-technical stakeholders through clear visualisations, a written report, and a PowerPoint presentation, enhancing data-driven decision-making.
 
 ## Projects
