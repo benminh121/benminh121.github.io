@@ -1,13 +1,16 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills
+- Data analysis/wrangling skills using SQL/Python/SAS
+- Data visualization and storytelling skills using Power BI
+- Cloud computing skills in AWS
 
 ## About me
 From the first year of my bachelor’s degree, I was drawn to the world of data. What began as curiosity quickly turned into a passion, ultimately leading me to earn a Master’s degree in Data Analytics with a focus on business applications.
 
-During my master’s program, I worked on a capstone project with Property Brokers, where I gained hands-on experience with real business data from the New Zealand property market. This project allowed me to refine my ability to transform raw data into actionable insights. I built an interactive Power BI dashboard to visualize key metrics and trends, helping stakeholders make data-driven decisions. Additionally, I developed machine learning models to classify property maintenance jobs and predict maintenance costs based on property attributes, enhancing operational efficiency.
+During my master’s program, I worked on a capstone project with Property Brokers, where I gained hands-on experience with real business data from the New Zealand property market. This project allowed me to refine my ability to transform raw data into actionable insights. I built an interactive Power BI dashboard to visualise key metrics and trends, helping stakeholders make data-driven decisions. Additionally, I developed machine learning models to classify property maintenance jobs and predict maintenance costs based on property attributes, enhancing operational efficiency.
 
-Beyond analytics, I have a strong foundation in data engineering. In one of my key projects, I designed and implemented a data lakehouse architecture to facilitate scalable data storage, transformation, and analysis. I ingested raw Parquet files into MiniO, and leveraged PySpark for data transformation and cleaning. The processed data was stored as an Apache Iceberg table format, ensuring efficient querying and versioning. The entire project was containerized using Docker, enabling seamless deployment across various environments.
+Beyond analytics, I have a strong foundation in data engineering. In one of my key projects, I designed and implemented a data lakehouse architecture to facilitate scalable data storage, transformation, and analysis. I ingested raw Parquet files into MiniO, and leveraged PySpark for data transformation and cleaning. The processed data was stored as an Apache Iceberg table format, ensuring efficient querying and versioning. The entire project was containerised using Docker, enabling seamless deployment across various environments.
 
 In addition to technical expertise, I have experience applying multivariate analysis and econometric models to uncover customer insights and measure the return on investment in marketing campaigns. My ability to blend data engineering, analytics, and machine learning allows me to bridge the gap between raw data and meaningful business outcomes.
 
@@ -32,7 +35,7 @@ In addition to technical expertise, I have experience applying multivariate anal
 ### Data Analyst – Advertising ROI | The Warehouse, New Zealand – Retail
 [Github](https://github.com/benminh121/thewarehouse_romi)
 
-Analyzed advertising and sales data from The Warehouse to evaluate the short- and long-term impact of media channels using econometric modeling, AdStock, and ROMI analysis. This data-driven approach identified Digital and Press as the most effective channels, while highlighting inefficiencies in Mailer, Television, and Radio. The optimized allocation strategy demonstrated two outcomes: a potential 2.31% increase in sales without additional budget, or an 5% budget reduction while maintaining the same sales level. The project provides a practical framework for profit-driven media optimization and strategic marketing investment.
+Analysed advertising and sales data from The Warehouse to evaluate the short- and long-term impact of media channels using econometric modelling, AdStock, and ROMI analysis. This data-driven approach identified Digital and Press as the most effective channels, while highlighting inefficiencies in Mailer, Television, and Radio. The optimised allocation strategy demonstrated two outcomes: a potential 2.31% increase in sales without additional budget, or an 5% budget reduction while maintaining the same sales level. The project provides a practical framework for profit-driven media optimisation and strategic marketing investment.
 
 ## Contacts
 - LinkedIn: [@bennguyen](https://www.linkedin.com/in/bennguyen1201/)
