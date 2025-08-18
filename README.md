@@ -29,10 +29,10 @@ In addition to technical expertise, I have experience applying multivariate anal
 - Presented complex analytical findings to non-technical stakeholders through clear visualisations, a written report, and a PowerPoint presentation, enhancing data-driven decision-making.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Data Analyst – Advertising ROI | The Warehouse, New Zealand – Retail
+[Github](https://github.com/benminh121/thewarehouse_romi)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Analyzed advertising and sales data from The Warehouse to evaluate the short- and long-term impact of media channels using econometric modeling, AdStock, and ROMI analysis. This data-driven approach identified Digital and Press as the most effective channels, while highlighting inefficiencies in Mailer, Television, and Radio. The optimized allocation strategy demonstrated two outcomes: a potential 2.31% increase in sales without additional budget, or an 5% budget reduction while maintaining the same sales level. The project provides a practical framework for profit-driven media optimization and strategic marketing investment.
 
 ## Contacts
 - LinkedIn: [@bennguyen](https://www.linkedin.com/in/bennguyen1201/)
