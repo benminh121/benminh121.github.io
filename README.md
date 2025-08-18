@@ -44,6 +44,12 @@ Analysed advertising and sales data from The Warehouse to evaluate the short- an
 
 Developed comprehensive analytical pipelines for eCommerce user behaviour and platform activity using AWS services. This data-driven approach enabled deeper understanding of the full customer journey, from discovery and acquisition to conversion and retention. The project combined Batch processing with Lake House architecture to visualise key metrics such as unique visitors, cart abandonment trends, top product categories, and brand performance, while Real-time analytics detected DDoS and bot attacks to secure platform integrity. The solution provides an automated, scalable, and actionable framework for driving business insights and optimising marketing and operational strategies.
 
+### [Image Classification with PyTorch](https://github.com/benminh121/2025-Phase-2-Data-Science-Ben-Nguyen/tree/main/3.%20Deep%20Learning%20Project)
+
+![Image Classification](images/projects/project_knowledgedistillation.jpg)
+
+Developed a knowledge distillation framework for image classification using a ResNet34 teacher and a ResNet18 student model. This data-driven approach enabled the student model to achieve competitive classification accuracy while maintaining a substantially smaller size and lower computational cost. The proposed method provides an efficient and scalable strategy for deploying deep learning models in resource-constrained environments without significant loss of performance.
+
 ## Contacts
 - LinkedIn: [@bennguyen](https://www.linkedin.com/in/bennguyen1201/)
 - Email: nguyenthaiminh1201@gmail.com
