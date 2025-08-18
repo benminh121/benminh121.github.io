@@ -32,13 +32,15 @@ In addition to technical expertise, I have experience applying multivariate anal
 - Presented complex analytical findings to non-technical stakeholders through clear visualisations, a written report, and a PowerPoint presentation, enhancing data-driven decision-making.
 
 ## Projects
-### Data Analyst – Advertising ROI | The Warehouse, New Zealand – Retail
-[Github](https://github.com/benminh121/thewarehouse_romi)
+### [Data Analyst – Advertising ROI | The Warehouse, New Zealand – Retail](https://github.com/benminh121/thewarehouse_romi)
+
+![Media Mix Modelling](images/projects/project_mixmodel.jpg)
 
 Analysed advertising and sales data from The Warehouse to evaluate the short- and long-term impact of media channels using econometric modelling, AdStock, and ROMI analysis. This data-driven approach identified Digital and Press as the most effective channels, while highlighting inefficiencies in Mailer, Television, and Radio. The optimised allocation strategy demonstrated two outcomes: a potential 2.31% increase in sales without additional budget, or an 5% budget reduction while maintaining the same sales level. The project provides a practical framework for profit-driven media optimisation and strategic marketing investment.
 
-### Data Engineer - Analytical Platform with AWS | eCommerce
-[Github](https://github.com/benminh121/ecommAWS)
+### [Data Engineer - Analytical Platform with AWS | eCommerce](https://github.com/benminh121/ecommAWS)
+
+![img](images/projects/project_aws.png)
 
 Developed comprehensive analytical pipelines for eCommerce user behaviour and platform activity using AWS services. This data-driven approach enabled deeper understanding of the full customer journey, from discovery and acquisition to conversion and retention. The project combined Batch processing with Lake House architecture to visualise key metrics such as unique visitors, cart abandonment trends, top product categories, and brand performance, while Real-time analytics detected DDoS and bot attacks to secure platform integrity. The solution provides an automated, scalable, and actionable framework for driving business insights and optimising marketing and operational strategies.
 
